@@ -9,3 +9,4 @@
 
 <b> SpamX Is A Pyrogram Based Spam Bots For Telegram With Many Features </b>
 
+ [Click Here](https://github.com/RiZoeLX/SpamX/blob/main/resources/heroku.md)
