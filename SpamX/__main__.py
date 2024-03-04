@@ -3,7 +3,7 @@ from SpamX.functions.clients import TheSpamX
 
 async def main():
     await TheSpamX.startup()
-    TheSpamX.logs.info("-- SpamX started --")
+    TheSpamX.logs.info("𝗤𝗨𝗘𝗘𝗡 ❣ 𝗔𝗦𝗜𝗙")
     await idle()
     await TheSpamX.SpamX.stop()
     await TheSpamX.stopAllClients()
