@@ -1,7 +1,7 @@
 {
-    "name": "SpamX - RiZoeLX",
+    "name": "SpamX - Quèén",
     "description": "A Pyrogram Based Spam Bots, Fast And Stable",
-    "logo": "https://telegra.ph/file/ec832fc9107fd21edfee3.jpg",
+    "logo": "https://graph.org/file/0ab31fe4e9561daad269c.jpg",
     "keywords": [
         "telegram",
         "PYROGRAM",
@@ -9,9 +9,9 @@
         "SpamX",
         "RiZoeLX"
     ],
-    "repository": "https://github.com/RiZoeLX/SpamX",
-    "website": "https://github.com/RiZoeLX",
-    "success_url": "https://t.me/RiZoeL_X",
+    "repository": "https://github.com/ASIFXQUEEN/QUENXSLOWSPAM",
+    "website": "https://github.com/ASIFXQUEEN",
+    "success_url": "https://t.me/ASHIF903",
     "env": {
         "API_ID": {
             "description": "Fill Api ID Take this value from My.telegram.org",
