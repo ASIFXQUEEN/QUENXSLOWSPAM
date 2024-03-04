@@ -46,7 +46,7 @@ async def start_bot(_, message: Message):
     )
 
 @Client.on_message(
-    filters.private & filters.regex("Home 🏠")
+    filters.private & filters.regex("🫧 𝐇𝐎𝐌𝐄 🫧")
 )
 async def start_home(_, message: Message):
     if await TheSpamX.sudo.sudoFilter(message, 3):
@@ -57,7 +57,7 @@ async def start_home(_, message: Message):
     )
 
 @Client.on_message(
-    filters.private & filters.regex("❓Help")
+    filters.private & filters.regex("👀ꞪꞫꟾƤ👀")
 )
 async def help_key(_, message: Message):
     if await TheSpamX.sudo.sudoFilter(message, 3):
@@ -237,7 +237,7 @@ async def setvar(SpamX: Client, message: Message):
         if check_var.upper() in ["HANDLER", "PING_MSG", "ALIVE_MSG", "ALIVE_MEDIA", "MULTITASK"]:
             var = check_var
         else:
-            await message.reply_text(f"Wrong variable! All Variables given below 👇\n\n `HANDLER`, `PING_MSG`, `ALIVE_MSG`, `MULTITASK`, `ALIVE_MEDIA` \n\n © @{TheSpamX.updateChannel}")
+            await message.reply_text(f"Wrong variable! All Variables given below 👇\n\n `HANDLER`, `PING_MSG`, `ALIVE_MSG`, `MULTITASK`, `ALIVE_MEDIA` 𝙼𝙰𝙳𝙴 𝙱𝚈 ||@ARAMR9|| ")
             return
         value = str(args[1])
         try:
