@@ -18,8 +18,8 @@ version = {
     "python": python_version(),
 }
 
-UpdateChannel = "RiZoeL_X"
-SupportGroup = "RiZoeLXSupport"
+UpdateChannel = "ARAME9"
+SupportGroup = "BESTODISHA"
 
 activeTasks: dict = {}
 dataBase = dataBase
