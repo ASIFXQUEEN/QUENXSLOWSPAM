@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="resources/RiZoeLX.png" alt="RiZoeLXSpam Logo">
+  <img src="resources/IMG_20240304_180227_368.jpg" alt="RiZoeLXSpam Logo">
 </p>
 <h6 align="center">
   <b>• SᴘᴀᴍX Bʏ ASIF •</b>
